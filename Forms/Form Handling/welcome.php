@@ -1,7 +1,7 @@
 Welcome
 <?php
-
- echo $_POST ["name"] ; ?> <br>
+// $_Post metoduyla formun olusturulmasi
+ echo $_POST["name"] ; ?> <br>
  Your email adress is : 
-<?php echo $_POST ["email"] ;
+<?php echo $_POST["email"] ;
 ?>
